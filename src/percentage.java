@@ -14,7 +14,7 @@ public class percentage {
         int d = sc.nextInt();
         System.out.println("Enter number 5: ");
         int e = sc.nextInt();
-        float percentage = ( a + b + c + d + e )/ 5;
+        int percentage = ( a + b + c + d + e )/ 5;
         System.out.println(percentage+"%");
     }
 }
